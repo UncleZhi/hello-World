@@ -1,2 +1,9 @@
 # hello-World
-Just another repository
+ 
+ Hi Humans！
+ 
+ 我以前只是用过SVN,对git有一些了解,以后要用git进行开发了,所以来这里系统的看一下Git。
+ so,又要从小白开始了,由于再是工作中,所以学习曲线可能比较陡峭,=。=！
+ 不过这样生活才有意思啊！
+ 
+ 
